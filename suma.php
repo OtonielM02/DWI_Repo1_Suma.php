@@ -7,4 +7,5 @@ function suma($a, $b){
   $b = 7;
   
   echo "Resultado: $a + $b = " . suma($a, $b);
+  echo "Segunda version";
 ?>
